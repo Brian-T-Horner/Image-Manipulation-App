@@ -1,4 +1,4 @@
-# Assignment 5- MIME
+# Image Manipulation Application
 
 There are three main packages: the model, control, and view package.
 
