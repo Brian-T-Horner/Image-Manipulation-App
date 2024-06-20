@@ -1,5 +1,7 @@
 # Image Manipulation Application
 
+This is an image manipulation application written for Programming Design and Paradigms (CS5010) in collaboration with Ted Banken.
+
 There are three main packages: the model, control, and view package.
 
 Model contains all the logic and operations for loading, 
