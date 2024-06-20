@@ -1,0 +1,75 @@
+
+load /home/bhorner/IdeaProjects/CS5010-Assignment4/res/donut.ppm donut
+
+greyscale red-component donut red-comp
+
+greyscale blue-component donut blue-comp
+
+greyscale green-component donut green-comp
+
+greyscale value-component donut value-comp
+
+greyscale luma-component donut luma-comp
+
+greyscale intensity-component donut intensity-comp
+
+horizontal-flip donut hflipped-image
+
+vertical-flip donut vflipped-image
+
+brighten 50 donut brighten-by-50-image
+
+brighten -20 donut brighten-by-neg-20-image
+
+rgb-split donut red-image green-image blue-image
+
+rgb-combine rgb-donut red-image green-image blue-image
+
+blur donut blur-image
+
+dither donut dither-image
+
+sharpen donut sharpen-image
+
+sepia donut sepia-image
+
+save rgb-donut.png rgb-donut
+
+save red-image.png red-image
+
+save green-image.png green-image
+
+save blue-image.png blue-image
+
+save brighten-by-50-image.png brighten-by-50-image
+
+save vflipped-image.png vflipped-image
+
+save hflipped-image.png hflipped-image
+
+save red-comp.png red-comp
+
+save blue-comp.png blue-comp
+
+save green-comp.png green-comp
+
+save value-comp.png value-comp
+
+save intensity-comp.png intensity-comp
+
+save luma-comp.png luma-comp
+
+save brighten-by-neg-20-image.png brighten-by-neg-20-image
+
+save sepia-image.png sepia-image
+
+save dither-image.png dither-image
+
+save sharpen-image.png sharpen-image
+
+save blur-image.png blur-image
+
+quit
+
+
+
