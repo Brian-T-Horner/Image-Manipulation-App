@@ -43,8 +43,3 @@ the program will provide the user with a UI to manipulate one image at a time.
 The supported image types that can be loaded and saved are .ppm, .png
 .bmp, and .jpg.
 
-
-## Image Source
-
-I, Ted Banken, own the image "donut.png" and authorize its use 
-in this project.
