@@ -1,5 +1,5 @@
 # Image Manipulation Application
-
+![alt text](https://github.com/Brian-T-Horner/Image-Manipulation-App/blob/eced645b9350fd623a6a2008baeefde2b398fac0/res/ScreenShot%20of%20Program%20with%20Image.png)
 This is an image manipulation application written for Programming Design and Paradigms (CS5010) in collaboration with Ted Banken.
 
 There are three main packages: the model, control, and view package.
